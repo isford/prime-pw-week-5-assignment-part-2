@@ -1,0 +1,30 @@
+h1{
+  color: #e6ecff;
+}
+
+header{
+  background-color: #001a66;
+  color: #e6ecff;
+  text-align: center;
+  opacity: .9;
+}
+
+body {
+ background-image: url('record.png');
+ background-color: #cccccc;
+ background-repeat: repeat-x;
+ margin: 0px;
+}
+
+main{
+  padding: 0em;
+}
+
+p{
+  color: red;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #ccffff;
+  opacity: .5;
+}
